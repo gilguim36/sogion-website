@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Aura Background Styles */
+.aura-background-component {
+  background-color: #020617; /* Fallback for slate-950 */
+}
